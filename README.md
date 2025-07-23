@@ -8,5 +8,6 @@ Get fair value / mid-price from high volume exchange (Bybit for example), to the
 Project is very early in its life cycle, and I am no expert: I am here to learn, showcase my progress while trying to make some money :).
 
 ### Status quo:
-Workimg on bybit scraper; researching optimal pair / exchange. Exchange ideally offers rebates for posting quotes on pairs.
+Working on bybit scraper; researching optimal pair / exchange. Exchange ideally offers rebates for posting quotes on pairs.
+
 
