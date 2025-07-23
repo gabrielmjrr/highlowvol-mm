@@ -11,3 +11,5 @@ Project is very early in its life cycle, and I am no expert: I am here to learn,
 Working on bybit scraper; researching optimal pair / exchange. Exchange ideally offers rebates for posting quotes on pairs.
 
 
+#### Disclaimer
+Some of this project may be vibe coded using Claude / Copilot.
